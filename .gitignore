@@ -1,0 +1,12 @@
+# 原始素材（通过 R2 CDN 访问，不提交到仓库）
+feishu/
+
+# 环境变量
+.env
+
+# 系统文件
+.DS_Store
+**/.DS_Store
+
+# 编辑器
+.cursor/
