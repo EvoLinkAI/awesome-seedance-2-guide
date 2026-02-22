@@ -238,4 +238,12 @@ Bienvenue pour soumettre de nouveaux cas et modèles d'invites, soumettez simple
 
 ---
 
+## 🚀 Accès Anticipé à l'API Seedance 2.0
+
+Obtenez un accès anticipé à l'API Seedance 2.0 via EvoLink — commencez à créer des applications vidéo IA multimodales dès aujourd'hui.
+
+<p align="center">
+  <a href="https://evolink.ai/seedance?source=github"><strong>👉 Demander l'Accès Anticipé →</strong></a>
+</p>
+
 `jimeng` `seedance` `ai-video` `multimodal` `prompts` `video-generation` `bytedance`

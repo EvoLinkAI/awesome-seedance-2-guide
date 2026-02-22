@@ -238,4 +238,12 @@
 
 ---
 
+## 🚀 Seedance 2.0 API 얼리 액세스
+
+EvoLink를 통해 Seedance 2.0 API에 얼리 액세스하세요 — 지금 바로 멀티모달 AI 비디오 애플리케이션 구축을 시작하세요.
+
+<p align="center">
+  <a href="https://evolink.ai/seedance?source=github"><strong>👉 얼리 액세스 신청 →</strong></a>
+</p>
+
 `jimeng` `seedance` `ai-video` `multimodal` `prompts` `video-generation` `bytedance`

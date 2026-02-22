@@ -244,4 +244,12 @@
 
 ---
 
+## 🚀 Seedance 2.0 API 抢先体验
+
+通过 EvoLink 抢先体验 Seedance 2.0 API — 立即开始构建多模态 AI 视频应用。
+
+<p align="center">
+  <a href="https://evolink.ai/seedance?source=github"><strong>👉 申请抢先体验 →</strong></a>
+</p>
+
 `jimeng` `seedance` `ai-video` `multimodal` `prompts` `video-generation` `bytedance`

@@ -238,4 +238,12 @@
 
 ---
 
+## 🚀 Seedance 2.0 API 早期アクセス
+
+EvoLink を通じて Seedance 2.0 API に早期アクセス — マルチモーダル AI 動画アプリケーションの構築を今すぐ始めましょう。
+
+<p align="center">
+  <a href="https://evolink.ai/seedance?source=github"><strong>👉 早期アクセスに申し込む →</strong></a>
+</p>
+
 `jimeng` `seedance` `ai-video` `multimodal` `prompts` `video-generation` `bytedance`

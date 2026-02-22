@@ -239,4 +239,12 @@ Welcome to submit new cases and prompt templates, simply create a PR!
 
 ---
 
+## 🚀 Seedance 2.0 API Early Access
+
+Get early access to the Seedance 2.0 API through EvoLink — start building multimodal AI video applications today.
+
+<p align="center">
+  <a href="https://evolink.ai/seedance?source=github"><strong>👉 Apply for Early Access →</strong></a>
+</p>
+
 `jimeng` `seedance` `ai-video` `multimodal` `prompts` `video-generation` `bytedance`

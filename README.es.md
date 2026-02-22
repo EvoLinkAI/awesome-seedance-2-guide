@@ -238,4 +238,12 @@ Sin cortes de cámara en todo momento, toma continua.
 
 ---
 
+## 🚀 Acceso Anticipado a la API de Seedance 2.0
+
+Obtén acceso anticipado a la API de Seedance 2.0 a través de EvoLink — comienza a crear aplicaciones de video con IA multimodal hoy.
+
+<p align="center">
+  <a href="https://evolink.ai/seedance?source=github"><strong>👉 Solicitar Acceso Anticipado →</strong></a>
+</p>
+
 `jimeng` `seedance` `ai-video` `multimodal` `prompts` `video-generation` `bytedance`
