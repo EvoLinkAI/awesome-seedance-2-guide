@@ -243,7 +243,7 @@ Yeni örnekler ve istem şablonları göndermekten çekinmeyin, doğrudan PR gö
 EvoLink üzerinden Seedance 2.0 API'ye erken erişim sağlayın — çok modlu AI video uygulamaları oluşturmaya bugün başlayın.
 
 <p align="center">
-  <a href="https://evolink.ai/seedance?source=github"><strong>👉 Erken Erişim İçin Başvurun →</strong></a>
+  <a href="https://Seedance2api.app"><strong>👉 Erken Erişim İçin Başvurun →</strong></a>
 </p>
 
 `jimeng` `seedance` `ai-video` `multimodal` `prompts` `video-generation` `bytedance`
