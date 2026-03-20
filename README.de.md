@@ -6,7 +6,7 @@
 
 > **Offizielle Anwendungsfälle und Eingabeaufforderungen Sammlung** | Praktischer Leitfaden zur multimodalen KI-Videogenerierung
 >
-> 🚀 **[evolink.ai](https://evolink.ai)** bietet stabile Seedance 1-, Seedance 1.5- und kommende Seedance 2.0-Dienste
+> 🚀 **[evolink.ai](https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-guide)** bietet stabile Seedance 1-, Seedance 1.5- und kommende Seedance 2.0-Dienste
 
 ---
 

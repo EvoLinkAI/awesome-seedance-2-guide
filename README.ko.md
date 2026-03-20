@@ -6,7 +6,7 @@
 
 > **공식 사용 사례 및 프롬프트 모음** | 멀티모달 AI 비디오 생성 실전 가이드
 >
-> 🚀 **[evolink.ai](https://evolink.ai)** 안정적인 Seedance 1, Seedance 1.5 및 곧 출시될 Seedance 2.0 서비스 제공
+> 🚀 **[evolink.ai](https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-guide)** 안정적인 Seedance 1, Seedance 1.5 및 곧 출시될 Seedance 2.0 서비스 제공
 
 ---
 

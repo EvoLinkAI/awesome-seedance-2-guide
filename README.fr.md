@@ -6,7 +6,7 @@
 
 > **Collection Officielle de Cas d'Usage et Invites** | Guide Pratique de Génération Vidéo IA Multimodale
 >
-> 🚀 **[evolink.ai](https://evolink.ai)** fournit des services stables Seedance 1, Seedance 1.5 et le prochain Seedance 2.0
+> 🚀 **[evolink.ai](https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-guide)** fournit des services stables Seedance 1, Seedance 1.5 et le prochain Seedance 2.0
 
 ---
 

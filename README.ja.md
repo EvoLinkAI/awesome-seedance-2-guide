@@ -6,7 +6,7 @@
 
 > **公式ユースケース＆プロンプト集** | マルチモーダルAIビデオ生成実践ガイド
 >
-> 🚀 **[evolink.ai](https://evolink.ai)** は安定した Seedance 1、Seedance 1.5、および近日公開予定の Seedance 2.0 サービスを提供しています
+> 🚀 **[evolink.ai](https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-guide)** は安定した Seedance 1、Seedance 1.5、および近日公開予定の Seedance 2.0 サービスを提供しています
 
 ---
 
