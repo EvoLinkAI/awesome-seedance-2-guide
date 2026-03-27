@@ -6,7 +6,7 @@
 
 > **官方 Use Cases & Prompts 整理** | 多模態 AI 視頻生成實戰指南
 >
-> 🚀 **[evolink.ai](https://evolink.ai/signup?utm_source=github[evolink.ai](https://evolink.ai/signup?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-guide)utm_medium=readme[evolink.ai](https://evolink.ai/signup?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-guide)utm_campaign=awesome-seedance-2-guide)** 提供穩定的 Seedance 1、Seedance 1.5 及即將到來的 Seedance 2.0 服務
+> 🚀 **[evolink.ai](https://evolink.ai/signup?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-guide)** 提供穩定的 Seedance 1、Seedance 1.5 及即將到來的 Seedance 2.0 服務
 
 ---
 

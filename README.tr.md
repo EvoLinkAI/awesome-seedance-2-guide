@@ -6,7 +6,7 @@
 
 > **Resmi Kullanım Örnekleri ve İstemler Koleksiyonu** | Çok Modlu AI Video Oluşturma Pratik Kılavuzu
 >
-> 🚀 **[evolink.ai](https://evolink.ai/signup?utm_source=github[evolink.ai](https://evolink.ai/signup?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-guide)utm_medium=readme[evolink.ai](https://evolink.ai/signup?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-guide)utm_campaign=awesome-seedance-2-guide)** istikrarlı Seedance 1, Seedance 1.5 ve yakında çıkacak Seedance 2.0 hizmetleri sağlar
+> 🚀 **[evolink.ai](https://evolink.ai/signup?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-guide)** istikrarlı Seedance 1, Seedance 1.5 ve yakında çıkacak Seedance 2.0 hizmetleri sağlar
 
 ---
 
