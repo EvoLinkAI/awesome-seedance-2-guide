@@ -2,6 +2,12 @@
 
 ---
 
+<p align="center">
+  <a href="https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=banner&utm_campaign=awesome-seedance-2-guide">
+    <img src="./assets/banner.jpg" alt="Seedance 2.0 Now Available">
+  </a>
+</p>
+
 # 🎬 Seedance 2.0 · Complete User Guide
 
 > 🔌 API docs, pricing, and integration examples: [Seedance-2.0-API](https://github.com/EvoLinkAI/Seedance-2.0-API)
@@ -244,12 +250,12 @@ Welcome to submit new cases and prompt templates, simply create a PR!
 
 ---
 
-## 🚀 Seedance 2.0 API Early Access
+## 🚀 Seedance 2.0 API Now Available
 
-Get early access to the Seedance 2.0 API through EvoLink — start building multimodal AI video applications today.
+Start building multimodal AI video applications today with the Seedance 2.0 API through EvoLink.
 
 <p align="center">
-  <a href="https://Seedance2api.app"><strong>👉 Apply for Early Access →</strong></a>
+  <a href="https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-guide"><strong>👉 Get Started Today →</strong></a>
 </p>
 
 `jimeng` `seedance` `ai-video` `multimodal` `prompts` `video-generation` `bytedance`
