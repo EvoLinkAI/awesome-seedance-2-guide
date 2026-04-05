@@ -238,12 +238,12 @@ Willkommen zum Einreichen neuer Fälle und Eingabeaufforderungsvorlagen, einfach
 
 ---
 
-## 🚀 Seedance 2.0 API Early Access
+## 🚀 Seedance 2.0 API Jetzt verfügbar
 
-Erhalten Sie frühzeitigen Zugang zur Seedance 2.0 API über EvoLink — beginnen Sie noch heute mit der Entwicklung multimodaler KI-Videoanwendungen.
+Starten Sie noch heute mit der Entwicklung multimodaler KI-Videoanwendungen mit der Seedance 2.0 API über EvoLink.
 
 <p align="center">
-  <a href="https://Seedance2api.app"><strong>👉 Early Access Beantragen →</strong></a>
+  <a href="https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-guide"><strong>👉 Jetzt starten →</strong></a>
 </p>
 
 `jimeng` `seedance` `ai-video` `multimodal` `prompts` `video-generation` `bytedance`
