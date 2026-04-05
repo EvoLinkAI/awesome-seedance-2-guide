@@ -12,7 +12,7 @@
 
 > **Colección Oficial de Casos de Uso y Prompts** | Guía Práctica de Generación de Video AI Multimodal
 >
-> 🚀 **[evolink.ai](https://evolink.ai/signup?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-guide)** proporciona servicios estables de Seedance 1, Seedance 1.5 y el próximo Seedance 2.0
+> 🚀 **[evolink.ai](https://evolink.ai/signup?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-guide)** proporciona servicios estables de Seedance 1, Seedance 1.5 y Seedance 2.0.
 
 ---
 
