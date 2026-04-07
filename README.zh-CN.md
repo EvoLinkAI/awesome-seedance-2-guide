@@ -250,9 +250,9 @@
 
 ---
 
-## 🚀 Seedance 2.0 API 抢先体验
+## 🚀 Seedance 2.0 Gateway Service 抢先体验
 
-通过 EvoLink 抢先体验 Seedance 2.0 API — 立即开始构建多模态 AI 视频应用。
+通过 EvoLink 抢先体验 Seedance 2.0 Gateway Service — 立即开始构建多模态 AI 视频应用。
 
 <p align="center">
   <a href="https://Seedance2api.app"><strong>👉 申请抢先体验 →</strong></a>

@@ -244,9 +244,9 @@ Willkommen zum Einreichen neuer Fälle und Eingabeaufforderungsvorlagen, einfach
 
 ---
 
-## 🚀 Seedance 2.0 API Jetzt verfügbar
+## 🚀 Seedance 2.0 Gateway Service Jetzt verfügbar
 
-Starten Sie noch heute mit der Entwicklung multimodaler KI-Videoanwendungen mit der Seedance 2.0 API über EvoLink.
+Starten Sie noch heute mit der Entwicklung multimodaler KI-Videoanwendungen mit dem Seedance 2.0 Gateway Service über EvoLink.
 
 <p align="center">
   <a href="https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-guide"><strong>👉 Jetzt starten →</strong></a>

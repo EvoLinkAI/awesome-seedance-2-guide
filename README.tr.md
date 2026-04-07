@@ -244,9 +244,9 @@ Yeni örnekler ve istem şablonları göndermekten çekinmeyin, doğrudan PR gö
 
 ---
 
-## 🚀 Seedance 2.0 API Erken Erişim
+## 🚀 Seedance 2.0 Gateway Service Erken Erişim
 
-EvoLink üzerinden Seedance 2.0 API'ye erken erişim sağlayın — çok modlu AI video uygulamaları oluşturmaya bugün başlayın.
+EvoLink üzerinden Seedance 2.0 Gateway Service'e erken erişim sağlayın — çok modlu AI video uygulamaları oluşturmaya bugün başlayın.
 
 <p align="center">
   <a href="https://Seedance2api.app"><strong>👉 Erken Erişim İçin Başvurun →</strong></a>

@@ -244,9 +244,9 @@
 
 ---
 
-## 🚀 Seedance 2.0 API 早期アクセス
+## 🚀 Seedance 2.0 Gateway Service 早期アクセス
 
-EvoLink を通じて Seedance 2.0 API に早期アクセス — マルチモーダル AI 動画アプリケーションの構築を今すぐ始めましょう。
+EvoLink を通じて Seedance 2.0 Gateway Service に早期アクセス — マルチモーダル AI 動画アプリケーションの構築を今すぐ始めましょう。
 
 <p align="center">
   <a href="https://Seedance2api.app"><strong>👉 早期アクセスに申し込む →</strong></a>

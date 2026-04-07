@@ -10,7 +10,7 @@
 
 # 🎬 Seedance 2.0 · Complete User Guide
 
-> 🔌 API docs, pricing, and integration examples: [Seedance-2.0-API](https://github.com/EvoLinkAI/Seedance-2.0-API)
+> 🔌 API docs, pricing, and integration examples: [Seedance-2.0-Gateway-Service](https://github.com/EvoLinkAI/Seedance-2.0-Gateway-Service)
 > 
 > 🧩 OpenClaw skill integration: [seedance2-video-gen-skill-for-openclaw](https://github.com/EvoLinkAI/seedance2-video-gen-skill-for-openclaw)
 
@@ -250,9 +250,9 @@ Welcome to submit new cases and prompt templates, simply create a PR!
 
 ---
 
-## 🚀 Seedance 2.0 API Now Available
+## 🚀 Seedance 2.0 Gateway Service Now Available
 
-Start building multimodal AI video applications today with the Seedance 2.0 API through EvoLink.
+Start building multimodal AI video applications today with the Seedance 2.0 Gateway Service through EvoLink.
 
 <p align="center">
   <a href="https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-guide"><strong>👉 Get Started Today →</strong></a>

@@ -22,9 +22,9 @@ Suporta **imagem + vídeo + áudio + texto** como entrada simultânea. Use `@mat
 
 ---
 
-## 🚀 Seedance 2.0 API Já Disponível
+## 🚀 Seedance 2.0 Gateway Service Já Disponível
 
-Comece a criar aplicações de vídeo AI multimodais hoje com a Seedance 2.0 API através do EvoLink.
+Comece a criar aplicações de vídeo AI multimodais hoje com o Seedance 2.0 Gateway Service através do EvoLink.
 
 <p align="center">
   <a href="https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-guide"><strong>👉 Comece hoje mesmo →</strong></a>
