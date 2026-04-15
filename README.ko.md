@@ -1,3 +1,9 @@
+🌐 [English](README.md) | [简体中文](README.zh-CN.md) | [繁體中文](README.zh-TW.md) | [Español](README.es.md) | [日本語](README.ja.md) | **한국어** | [Türkçe](README.tr.md) | [Français](README.fr.md) | [Deutsch](README.de.md)
+
+---
+
+# 🎬 Seedance 2.0 · 완전 사용 가이드
+
 <p align="center">
   <a href="https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=banner&utm_campaign=awesome-seedance-2-guide">
     <img src="./assets/banner.jpg" alt="Seedance 2.0 Human Face Now Available Try Now" width="100%" />
@@ -8,17 +14,12 @@
   <strong>Seedance 2.0<br>Human Face Now Available<br>Try Now</strong>
 </p>
 
-🌐 [English](README.md) | [简体中文](README.zh-CN.md) | [繁體中文](README.zh-TW.md) | [Español](README.es.md) | [日本語](README.ja.md) | **한국어** | [Türkçe](README.tr.md) | [Français](README.fr.md) | [Deutsch](README.de.md)
-
----
-
-# 🎬 Seedance 2.0 · 완전 사용 가이드
-
 > **공식 사용 사례 및 프롬프트 모음** | 멀티모달 AI 비디오 생성 실전 가이드
 >
 > 🚀 **[evolink.ai](https://evolink.ai/signup?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-guide)** 안정적인 Seedance 1, Seedance 1.5 및 곧 출시될 Seedance 2.0 서비스 제공
 
 ---
+
 
 ## ✨ Seedance 2.0은 왜일까?
 

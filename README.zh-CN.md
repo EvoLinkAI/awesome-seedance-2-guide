@@ -1,3 +1,9 @@
+🌐 [English](README.md) | **简体中文** | [繁體中文](README.zh-TW.md) | [Español](README.es.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [Türkçe](README.tr.md) | [Français](README.fr.md) | [Deutsch](README.de.md)
+
+---
+
+# 🎬 Seedance 2.0 · 完全使用手册
+
 <p align="center">
   <a href="https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=banner&utm_campaign=awesome-seedance-2-guide">
     <img src="./assets/banner.jpg" alt="Seedance 2.0 Human Face Now Available Try Now" width="100%" />
@@ -8,17 +14,12 @@
   <strong>Seedance 2.0<br>Human Face Now Available<br>Try Now</strong>
 </p>
 
-🌐 [English](README.md) | **简体中文** | [繁體中文](README.zh-TW.md) | [Español](README.es.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [Türkçe](README.tr.md) | [Français](README.fr.md) | [Deutsch](README.de.md)
-
----
-
-# 🎬 Seedance 2.0 · 完全使用手册
-
 > **官方 Use Cases & Prompts 整理** | 多模态 AI 视频生成实战指南
 >
 > 🚀 **[evolink.ai](https://evolink.ai/signup?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-guide)** 提供稳定的 Seedance 1、Seedance 1.5 及 Seedance 2.0 服务
 
 ---
+
 
 ## ✨ 为什么是 Seedance 2.0？
 

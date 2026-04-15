@@ -2,6 +2,8 @@
 
 ---
 
+# 🎬 Seedance 2.0 · Complete User Guide
+
 <p align="center">
   <a href="https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=banner&utm_campaign=awesome-seedance-2-guide">
     <img src="./assets/banner.jpg" alt="Seedance 2.0 Human Face Now Available Try Now" width="100%" />
@@ -12,18 +14,16 @@
   <strong>Seedance 2.0<br>Human Face Now Available<br>Try Now</strong>
 </p>
 
-# 🎬 Seedance 2.0 · Complete User Guide
-
 > 🔌 API docs, pricing, and integration examples: [Seedance-2.0-Gateway-Service](https://github.com/EvoLinkAI/Seedance-2.0-Gateway-Service)
 > 
 > 🧩 OpenClaw skill integration: [seedance2-video-gen-skill-for-openclaw](https://github.com/EvoLinkAI/seedance2-video-gen-skill-for-openclaw)
-
 
 > **Official Use Cases & Prompts Collection** | Multimodal AI Video Generation Practical Guide
 >
 > 🚀 **[evolink.ai](https://evolink.ai/signup?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-guide)** provides stable Seedance 1, Seedance 1.5, and Seedance 2.0 services.
 
 ---
+
 
 ## ✨ Why Seedance 2.0?
 

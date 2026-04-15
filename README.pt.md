@@ -2,6 +2,8 @@
 
 ---
 
+# 🎬 Seedance 2.0 · Guia Completo do Usuário
+
 <p align="center">
   <a href="https://evolink.ai/seedance-2-0?utm_source=github&utm_medium=banner&utm_campaign=awesome-seedance-2-guide">
     <img src="./assets/banner.jpg" alt="Seedance 2.0 Human Face Now Available Try Now" width="100%" />
@@ -12,13 +14,12 @@
   <strong>Seedance 2.0<br>Human Face Now Available<br>Try Now</strong>
 </p>
 
-# 🎬 Seedance 2.0 · Guia Completo do Usuário
-
 > **Coleção Oficial de Casos de Uso e Prompts** | Guia Prático de Geração de Vídeo AI Multimodal
 >
 > 🚀 **[evolink.ai](https://evolink.ai/signup?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-guide)** fornece serviços estáveis de Seedance 1, Seedance 1.5 e Seedance 2.0.
 
 ---
+
 
 ## ✨ Por que Seedance 2.0?
 
