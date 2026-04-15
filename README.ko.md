@@ -6,7 +6,9 @@
 
 <p align="center">
   <strong>Seedance 2.0<br>Human Face Now Available<br>Try Now</strong>
-</p>🌐 [English](README.md) | [简体中文](README.zh-CN.md) | [繁體中文](README.zh-TW.md) | [Español](README.es.md) | [日本語](README.ja.md) | **한국어** | [Türkçe](README.tr.md) | [Français](README.fr.md) | [Deutsch](README.de.md)
+</p>
+
+🌐 [English](README.md) | [简体中文](README.zh-CN.md) | [繁體中文](README.zh-TW.md) | [Español](README.es.md) | [日本語](README.ja.md) | **한국어** | [Türkçe](README.tr.md) | [Français](README.fr.md) | [Deutsch](README.de.md)
 
 ---
 
