@@ -17,6 +17,8 @@
 > **Resmi Kullanım Örnekleri ve İstemler Koleksiyonu** | Çok Modlu AI Video Oluşturma Pratik Kılavuzu
 >
 > 🚀 **[evolink.ai](https://evolink.ai/signup?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-guide)** istikrarlı Seedance 1, Seedance 1.5 ve yakında çıkacak Seedance 2.0 hizmetleri sağlar
+>
+> 🌐 **Ücretsiz online deneyin (API anahtarı gerekmez):** [Seedance 2.0 AI Video](https://seedance2aivideo.app/) — ücretsiz kredilerle resmi web arayüzü, metin-video, görüntü-video, dudak senkronizasyonu ve çok sahneli hikaye anlatımını destekler.
 
 ---
 

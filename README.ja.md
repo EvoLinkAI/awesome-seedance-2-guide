@@ -17,6 +17,8 @@
 > **公式ユースケース＆プロンプト集** | マルチモーダルAIビデオ生成実践ガイド
 >
 > 🚀 **[evolink.ai](https://evolink.ai/signup?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-guide)** は安定した Seedance 1、Seedance 1.5、および近日公開予定の Seedance 2.0 サービスを提供しています
+>
+> 🌐 **無料でオンライン体験（APIキー不要）：**[Seedance 2.0 AI Video](https://seedance2aivideo.app/) — 公式ウェブインターフェース、無料クレジット付き、テキストから動画・画像から動画・リップシンク・マルチショット対応。
 
 ---
 

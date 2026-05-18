@@ -17,6 +17,8 @@
 > **Colección Oficial de Casos de Uso y Prompts** | Guía Práctica de Generación de Video AI Multimodal
 >
 > 🚀 **[evolink.ai](https://evolink.ai/signup?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-guide)** proporciona servicios estables de Seedance 1, Seedance 1.5 y Seedance 2.0.
+>
+> 🌐 **Pruébalo gratis (sin clave API):** [Seedance 2.0 AI Video](https://seedance2aivideo.app/) — interfaz web oficial con créditos gratuitos, compatible con texto a video, imagen a video, sincronización de labios y narración en múltiples planos.
 
 ---
 

@@ -17,6 +17,8 @@
 > **官方 Use Cases & Prompts 整理** | 多模態 AI 視頻生成實戰指南
 >
 > 🚀 **[evolink.ai](https://evolink.ai/signup?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-guide)** 提供穩定的 Seedance 1、Seedance 1.5 及即將到來的 Seedance 2.0 服務
+>
+> 🌐 **免費線上體驗（無需 API Key）：**[Seedance 2.0 AI Video](https://seedance2aivideo.app/) — 官方網頁端，贈送免費點數，支援文字生成影片、圖片生成影片、口型同步及多鏡頭敘事。
 
 ---
 
