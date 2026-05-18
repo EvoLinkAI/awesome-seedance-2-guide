@@ -17,6 +17,8 @@
 > **공식 사용 사례 및 프롬프트 모음** | 멀티모달 AI 비디오 생성 실전 가이드
 >
 > 🚀 **[evolink.ai](https://evolink.ai/signup?utm_source=github&utm_medium=readme&utm_campaign=awesome-seedance-2-guide)** 안정적인 Seedance 1, Seedance 1.5 및 곧 출시될 Seedance 2.0 서비스 제공
+>
+> 🌐 **무료 온라인 체험 (API 키 불필요):** [Seedance 2.0 AI Video](https://seedance2aivideo.app/) — 공식 웹 인터페이스, 무료 크레딧 제공, 텍스트→영상·이미지→영상·립싱크·멀티샷 스토리텔링 지원.
 
 ---
 
